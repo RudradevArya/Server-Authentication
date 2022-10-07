@@ -1,15 +1,9 @@
-# Example
-
-To run this example:
-
-- `npm install` or `yarn`
-- `npm run dev` or `yarn dev`
 
 ## Real Instructions
 
 use `nodemon server.js` to run
 
-## Install stuff
+## Install Dependencies stuff
 
 ->go to project:
 npm init
